@@ -6,7 +6,7 @@ My day job is structural and pipeline integrity analysis — keeping subsea asse
 
 ## Selected work
 
-**[StillTime](https://github.com/gustyforcast/StillTime)** — SwiftUI Pomodoro timer with procedural on-device AI audio and binaural beats (iOS)
+**[StillTime](https://github.com/gustyforcast/StillTime)** — SwiftUI Pomodoro timer with procedural on-device AI audio and binaural beats (iOS · App Store)
 
 **[PhotoFlow](https://github.com/gustyforcast/PhotoFlow)** — Photo workflow and management app (iOS, Swift)
 
@@ -18,5 +18,5 @@ My day job is structural and pipeline integrity analysis — keeping subsea asse
 
 ## Elsewhere
 
-- Website: _coming soon_
-- App Store: _coming soon_
+- [gustyforcast.me](https://gustyforcast.me)
+- App Store: StillTime _(direct link coming)_
