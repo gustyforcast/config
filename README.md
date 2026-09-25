@@ -1,14 +1,14 @@
-Engineer who builds tools. Subsea engineer (pipeline integrity, Python automation, FEA) who also ships iOS apps.
+Engineer who builds tools. Subsea engineer (pipeline integrity, Python automation, FEA) who also ships macOS and iOS apps.
 
 ## What I build
 
-My day job is structural and pipeline integrity analysis — keeping subsea assets in service through calculation and code. The same instinct drives my iOS side projects: mostly tools I wanted to exist, built because nothing off the shelf quite fitted. The thread across both is making complex data legible and the outputs defensible.
+My day job is structural and pipeline integrity analysis — keeping subsea assets in service through calculation and code. The same instinct drives my macOS and iOS side projects: mostly tools I wanted to exist, built because nothing off the shelf quite fitted. The thread across both is making complex data legible and the outputs defensible.
 
 ## Apps
 
 **[StillTime](https://apps.apple.com/au/app/stilltime/id6747281882)** — A Pomodoro focus timer that generates personalised meditation guidance and ambient soundscapes entirely on-device. Built in SwiftUI with SwiftData for session persistence; audio is procedurally synthesised via AVFoundation, with binaural beat generation and an on-device speech-synthesis script engine for guided sessions. No subscriptions, no network calls.
 
-**PhotoFlow** _(coming to App Store)_ — A photo workflow and organisation app for iPhone. Built in Swift and SwiftUI; designed around a clean architecture separating photo library management from a streamlined cull-and-export workflow.
+**PhotoFlow** _(coming to the Mac App Store)_ — A photo ingest and archive app for macOS. Built in SwiftUI with AppKit; designed around a non-destructive workflow for SD card import, backup verification, and a file-based archive — no hidden library, originals never modified.
 
 ## Tools and libraries
 
