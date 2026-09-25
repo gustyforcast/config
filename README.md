@@ -4,11 +4,13 @@ Engineer who builds tools. Subsea engineer (pipeline integrity, Python automatio
 
 My day job is structural and pipeline integrity analysis — keeping subsea assets in service through calculation and code. The same instinct drives my iOS side projects: mostly tools I wanted to exist, built because nothing off the shelf quite fitted. The thread across both is making complex data legible and the outputs defensible.
 
-## Selected work
+## Apps
 
-**[StillTime](https://github.com/gustyforcast/StillTime)** — SwiftUI Pomodoro timer with procedural on-device AI audio and binaural beats (iOS · [App Store](https://apps.apple.com/au/app/stilltime/id6747281882))
+**[StillTime](https://apps.apple.com/au/app/stilltime/id6747281882)** — A Pomodoro focus timer that generates personalised meditation guidance and ambient soundscapes entirely on-device. Built in SwiftUI with SwiftData for session persistence; audio is procedurally synthesised via AVFoundation, with binaural beat generation and an on-device speech-synthesis script engine for guided sessions. No subscriptions, no network calls.
 
-**[PhotoFlow](https://github.com/gustyforcast/PhotoFlow)** — Photo workflow and management app (iOS, Swift)
+**PhotoFlow** _(coming to App Store)_ — A photo workflow and organisation app for iPhone. Built in Swift and SwiftUI; designed around a clean architecture separating photo library management from a streamlined cull-and-export workflow.
+
+## Tools and libraries
 
 **[Idea-engine](https://github.com/gustyforcast/Idea-engine)** — Stdlib-only Python pipeline that scores ideas via Claude and Ollama; outputs a self-contained sortable HTML dashboard
 
